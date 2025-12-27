@@ -3,6 +3,7 @@ Rainbow Color
 Red
 Blue
 Brown
+Green
 Orange
 
 This are the Rainbow Color
